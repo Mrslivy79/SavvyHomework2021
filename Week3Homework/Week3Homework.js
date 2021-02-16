@@ -24,4 +24,4 @@ crust: orderCrust,
 toppings: orderToppings
 };
 }
-preparePizza();Week3
+preparePizza(getPizzaOrder);
