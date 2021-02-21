@@ -25,4 +25,8 @@ toppings: orderToppings
 
 };
 }
+<<<<<<< HEAD
 preparePizza(pizzaOrder);
+=======
+preparePizza(getPizzaOrder);
+>>>>>>> 815c4cd39da5da1c6c70519b14ad7fe4e54cad0b
